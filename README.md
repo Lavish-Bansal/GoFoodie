@@ -1,5 +1,3 @@
-![](./public/images/readmeImg/banner.png)
-
 # GoFoodie Restaurant 👨‍🍳
 
 **Live preview: [click me](https://gofoodie.onrender.com)**
