@@ -1,4 +1,3 @@
-/* Nav Styles */
 .nav {
 	padding: 2rem 0;
 }
@@ -87,8 +86,7 @@
 		display: block;
 	}
 }
-/* End Nav Styles */
-/* Global Button Styles */
+
 .btn {
 	color: var(--green-1);
 	font-family: Poppins;
@@ -107,9 +105,7 @@
 		font-size: 2rem;
 	}
 }
-/* End Global Button Styles */
 
-/* Store info section styles*/
 .storeInfo__wrapper {
 	display: flex;
 	justify-content: center;
@@ -162,7 +158,6 @@
 	}
 }
 
-/* Dishes Grid */
 .dishGrid__title {
 	font-size: 1.8rem;
 	margin-bottom: 2rem;
@@ -233,9 +228,7 @@
 		margin-bottom: 1rem;
 	}
 }
-/* Dishes Grid */
 
-/* Footer Styles */
 footer {
 	background: var(--lightGreen-1);
 	padding-top: 5rem;
@@ -335,9 +328,7 @@ footer {
 		text-align: left;
 	}
 }
-/* End Footer Styles */
 
-/* Form Styles */
 #form {
 	padding: 5rem 0;
 }
