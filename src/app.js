@@ -55,7 +55,7 @@ app.post("/contact", async(req, res)=>{
     }
 })
 
-// For Booking Page 
+// For Booking Page
 app.post("/booking", async(req, res)=>{
     try{
         const newBooking = new Order({
